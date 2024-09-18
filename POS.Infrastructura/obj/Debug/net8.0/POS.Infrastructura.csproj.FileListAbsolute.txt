@@ -1,0 +1,17 @@
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\bin\Debug\net8.0\POS.Infrastructura.deps.json
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\bin\Debug\net8.0\POS.Infrastructura.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\bin\Debug\net8.0\POS.Infrastructura.pdb
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\bin\Debug\net8.0\POS.Dominio.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\bin\Debug\net8.0\POS.Utilidades.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\bin\Debug\net8.0\POS.Dominio.pdb
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\bin\Debug\net8.0\POS.Utilidades.pdb
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\POS.Infrastructura.csproj.AssemblyReference.cache
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\POS.Infrastructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\POS.Infrastructura.AssemblyInfoInputs.cache
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\POS.Infrastructura.AssemblyInfo.cs
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\POS.Infrastructura.csproj.CoreCompileInputs.cache
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\POS.Infr.309724E1.Up2Date
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\POS.Infrastructura.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\refint\POS.Infrastructura.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\POS.Infrastructura.pdb
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\ref\POS.Infrastructura.dll

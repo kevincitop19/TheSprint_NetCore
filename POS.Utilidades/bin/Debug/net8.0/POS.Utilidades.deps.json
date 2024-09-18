@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "POS.Utilidades/1.0.0": {
+        "runtime": {
+          "POS.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POS.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

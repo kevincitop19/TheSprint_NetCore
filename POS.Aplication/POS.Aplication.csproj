@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\POS.Dominio\POS.Dominio.csproj" />
+    <ProjectReference Include="..\POS.Infrastructura\POS.Infrastructura.csproj" />
+    <ProjectReference Include="..\POS.Utilidades\POS.Utilidades.csproj" />
+  </ItemGroup>
+
+</Project>

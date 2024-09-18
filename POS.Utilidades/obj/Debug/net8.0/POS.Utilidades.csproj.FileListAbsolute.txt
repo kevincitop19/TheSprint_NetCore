@@ -1,0 +1,11 @@
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\bin\Debug\net8.0\POS.Utilidades.deps.json
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\bin\Debug\net8.0\POS.Utilidades.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\bin\Debug\net8.0\POS.Utilidades.pdb
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\POS.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\POS.Utilidades.AssemblyInfoInputs.cache
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\POS.Utilidades.AssemblyInfo.cs
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\POS.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\POS.Utilidades.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\refint\POS.Utilidades.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\POS.Utilidades.pdb
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\ref\POS.Utilidades.dll

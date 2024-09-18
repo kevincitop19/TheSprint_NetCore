@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "POS.API.Controllers.UsuarioController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "POS.Dominio.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "POS.Infrastructura.Bases.BaseResponse\u00601[[POS.Dominio.Models.Usuario, POS.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
