@@ -1,4 +1,7 @@
-﻿using POS.Dominio.Models;
+﻿using AutoMapper;
+using Azure.Core;
+using POS.Dominio.Dtos.Request;
+using POS.Dominio.Models;
 using POS.Infrastructura.Bases;
 using POS.Infrastructura.Commons.Config.Context;
 using POS.Infrastructura.Interface;
@@ -14,28 +17,37 @@ namespace POS.Infrastructura.Repository
     {
 
         public readonly PruebabackendContext _pruebabackendContext;
+        private readonly IMapper _mapper;
 
-        public UsuarioRepository(PruebabackendContext pruebabackend)
+        public UsuarioRepository(PruebabackendContext pruebabackend, IMapper mapper)
         {
             _pruebabackendContext = pruebabackend;
+            _mapper = mapper;
         }
-        public async Task<BaseResponse<Usuario>> CreateUser(Usuario user)
+
+        public async Task<BaseResponse<Usuario>> CreateUser(UsuarioRequest usuario)
         {
             var response = new BaseResponse<Usuario>();
             try
             {
-                var query = await _pruebabackendContext.Usuarios.AddAsync(user );
-                if (query != null)
+                // Mapear UsuarioRequest a Usuario
+                var user = _mapper.Map<Usuario>(usuario);
+
+                var query = await _pruebabackendContext.Usuarios.AddAsync(usuario);
+                await _pruebabackendContext.SaveChangesAsync();
+                if (query.Entity != null)
                 {
                     response.Data.Add("insert", user);
                     response.Message = "Se guardo correctamente el usuario";//agregar mss
                     response.Code = "200"; //agregar el codigo
                 }
-                
-            }catch (Exception ex){
-                response.Message=ex.Message;
+
+            }
+            catch (Exception ex)
+            {
+                response.Message = ex.Message;
                 response.Code = "404";
-            
+
             }
             return response;
         }

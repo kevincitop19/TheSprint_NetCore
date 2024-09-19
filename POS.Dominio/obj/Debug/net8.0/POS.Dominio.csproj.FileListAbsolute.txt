@@ -12,3 +12,4 @@ C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Dominio\obj\Debug\net8.0\r
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Dominio\obj\Debug\net8.0\POS.Dominio.pdb
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Dominio\obj\Debug\net8.0\POS.Dominio.genruntimeconfig.cache
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Dominio\obj\Debug\net8.0\ref\POS.Dominio.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Dominio\obj\Debug\net8.0\POS.Dominio.sourcelink.json

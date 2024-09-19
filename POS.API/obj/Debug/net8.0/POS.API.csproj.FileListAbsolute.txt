@@ -143,3 +143,5 @@ C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.API\obj\Debug\net8.0\POS.A
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.API\obj\Debug\net8.0\POS.API.genruntimeconfig.cache
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.API\obj\Debug\net8.0\ref\POS.API.dll
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.API\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.API\obj\Debug\net8.0\POS.API.sourcelink.json
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.API\bin\Debug\net8.0\AutoMapper.dll

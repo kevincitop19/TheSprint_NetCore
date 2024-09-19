@@ -15,3 +15,4 @@ C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\n
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\refint\POS.Infrastructura.dll
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\POS.Infrastructura.pdb
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\ref\POS.Infrastructura.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Infrastructura\obj\Debug\net8.0\POS.Infrastructura.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POS.Infrastructura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fec2229e012984f91263fc7bbae247edfc48c5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("POS.Infrastructura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POS.Infrastructura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

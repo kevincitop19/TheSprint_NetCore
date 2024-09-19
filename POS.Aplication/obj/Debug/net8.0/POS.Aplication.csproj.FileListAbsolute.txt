@@ -17,3 +17,4 @@ C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Aplication\obj\Debug\net8.
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Aplication\obj\Debug\net8.0\refint\POS.Aplication.dll
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Aplication\obj\Debug\net8.0\POS.Aplication.pdb
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Aplication\obj\Debug\net8.0\ref\POS.Aplication.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Aplication\obj\Debug\net8.0\POS.Aplication.sourcelink.json

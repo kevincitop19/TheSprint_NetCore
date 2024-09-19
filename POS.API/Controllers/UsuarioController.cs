@@ -1,5 +1,6 @@
 ﻿
 using Microsoft.AspNetCore.Mvc;
+using POS.Dominio.Dtos.Request;
 using POS.Dominio.Models;
 using POS.Infrastructura.Bases;
 using POS.Infrastructura.Interface;
@@ -18,7 +19,7 @@ namespace POS.API.Controllers
         }
 
         [HttpPost]
-        public Task<BaseResponse<Usuario>> CreateUser([FromBody] Usuario user)
+        public Task<BaseResponse<Usuario>> CreateUser([FromBody] UsuarioRequest user)
         {
             return _usuarioRepository.CreateUser(user);
         }

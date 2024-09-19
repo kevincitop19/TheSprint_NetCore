@@ -1,4 +1,5 @@
-﻿using POS.Dominio.Models;
+﻿using POS.Dominio.Dtos.Request;
+using POS.Dominio.Models;
 using POS.Infrastructura.Bases;
 using System;
 using System.Collections.Generic;
@@ -13,7 +14,7 @@ namespace POS.Infrastructura.Interface
         Task<BaseResponse<Usuario>> GetAll();
        
         Task<BaseResponse<Usuario>> Get(int id);
-        Task<BaseResponse<Usuario>> CreateUser(Usuario usuario);
+        Task<BaseResponse<Usuario>> CreateUser(UsuarioRequest usuario);
         Task<BaseResponse<Usuario>> UpdateUser(Usuario usuario);
         Task<BaseResponse<Usuario>> DeleteUser(int id); 
 

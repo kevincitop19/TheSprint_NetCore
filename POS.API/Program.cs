@@ -1,17 +1,14 @@
 using Microsoft.EntityFrameworkCore;
 using POS.Infrastructura.Commons.Config.Context;
+using POS.Infrastructura.Extension;
 using POS.Infrastructura.Interface;
 using POS.Infrastructura.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
+var Configuration = builder.Configuration;
 
-//Crear conexion a la Base de Datos
-var connectionString = builder.Configuration.GetConnectionString("POSConnection");
-//Registar el servicio para la conexion
-builder.Services.AddDbContext<PruebabackendContext>(options => options.UseSqlServer(connectionString));
-
-// Registrando servicios y repositorios
-builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+//Inyectar Servicios
+builder.Services.AddInjectionInfrastructura(Configuration);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

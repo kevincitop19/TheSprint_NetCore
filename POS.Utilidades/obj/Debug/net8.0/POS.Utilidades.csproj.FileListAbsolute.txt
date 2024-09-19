@@ -9,3 +9,4 @@ C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\refint\POS.Utilidades.dll
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\POS.Utilidades.pdb
 C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\ref\POS.Utilidades.dll
+C:\Users\viamatica\source\repos\TheSprint_NetCore\POS.Utilidades\obj\Debug\net8.0\POS.Utilidades.sourcelink.json

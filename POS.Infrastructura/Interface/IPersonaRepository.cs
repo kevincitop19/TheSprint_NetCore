@@ -13,8 +13,8 @@ namespace POS.Infrastructura.Interface
         Task<BaseResponse<Persona>> GetAll();
 
         Task<BaseResponse<Persona>> Get(int id);
-        Task<BaseResponse<Persona>> CreateUser(Persona usuario);
-        Task<BaseResponse<Persona>> UpdateUser(Persona usuario);
-        Task<BaseResponse<Persona>> DeleteUser(int id);
+        Task<BaseResponse<Persona>> CreatePersona(Persona persona);
+        Task<BaseResponse<Persona>> UpdatePersona(Persona persona);
+        Task<BaseResponse<Persona>> DeletePersona(int id);
     }
 }
